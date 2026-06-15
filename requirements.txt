@@ -1,8 +1,9 @@
-supabase
-python-dotenv
-streamlit
-requests
-beautifulsoup4
-huggingface_hub
-feedparser
-huggingface
+supabase>=2.0.0
+python-dotenv>=1.0.0
+streamlit>=1.30.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+huggingface_hub>=0.20.0
+feedparser>=6.0.0
+trafilatura>=1.6.0
+pandas>=2.0.0
